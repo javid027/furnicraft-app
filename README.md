@@ -72,11 +72,6 @@ npm run dev
 Admin login: `/admin/login`  
 Dashboard (authenticated): `/admin/dashboard`
 
-To serve on a specific host/port:
-
-```bash
-php artisan serve --host=192.168.2.189 --port=8080
-```
 
 ## Frontend structure
 
